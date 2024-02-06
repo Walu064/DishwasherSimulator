@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>23d7ab81-026b-4351-87ae-59d0df7db36e</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Symulator.Core</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)WeightSensorClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WaterPumpClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ValveSensorClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WashingMachineClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ThermometerClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DoorClient.cs" />
+  </ItemGroup>
+</Project>

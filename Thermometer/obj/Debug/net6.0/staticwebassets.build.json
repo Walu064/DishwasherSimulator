@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EBv9azC6FBgkijzVl9zbWJWMMKbNoXs9/RmVNymPgJg=",
+  "Source": "TemperatureSensor",
+  "BasePath": "_content/TemperatureSensor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

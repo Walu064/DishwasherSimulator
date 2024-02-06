@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k7lb3dH221U8NqdL4wOrliRcqutyHzQeMMnlQMrq958=",
+  "Source": "TurncockSensor",
+  "BasePath": "_content/TurncockSensor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

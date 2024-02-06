@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PUBExqDj1EKGFYAs9WvK4qdHAPRTzrzVJ3vxAoJ2YCE=",
+  "Source": "CapacitySensor",
+  "BasePath": "_content/CapacitySensor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

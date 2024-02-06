@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cO11/UGQcYaMmmzZPefAAeEHdMQnHv1FMsZQoUBOymg=",
+  "Source": "DoorOpeningSensor",
+  "BasePath": "_content/DoorOpeningSensor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
